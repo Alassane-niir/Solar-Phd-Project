@@ -1,0 +1,3 @@
+# Reclassify jupyter notebook as Python
+*.ipynb linguist-language=Python
+*.feature linguist-language=Python

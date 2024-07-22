@@ -1,0 +1,9 @@
+# Helper document to gather all config files in single object
+# OBS: Do not add configs directly int his file
+
+name: "default"
+logging: !include logging.yml
+paths: !include paths.yml
+datasources: !include datasources.yml
+models: !include models.yml
+pipelines: !include pipelines.yml
